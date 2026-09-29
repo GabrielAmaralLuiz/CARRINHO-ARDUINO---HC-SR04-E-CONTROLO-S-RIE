@@ -1,0 +1,2 @@
+# CARRINHO-ARDUINO---HC-SR04-E-CONTROLO-S-RIE
+=========================================CÓDIGO DO CARRINHO ARDUINO - HC-SR04 E CONTROLO SÉRIE -  (Lógica Bluetooth comentada) - CÓDIGO DO CARRINHO ARDUINO - HC-SR04 + SERVO (VARREDURA 360°)
