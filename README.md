@@ -3,7 +3,16 @@
 Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de navegar desviando-se de obstáculos através do mapeamento de ambiente em 360°, utilizando um **Sensor Ultrassónico HC-SR04** montado num **Micro Servomotor SG90** e controlo de motores através da ponte H **L293D**.
 
 ---
+## 👥 Participantes e Contribuidores
 
+| Foto | Nome | Função / Contribuição | GitHub |
+| :---: | :--- | :--- | :---: |
+| <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Gabriel Amaral** | Montagem do Chassis & Motor Driver | [@OUTRO_USUARIO](https://github.com/GabrielAmaralLuiz) |
+| <img src="https://github.com/SEU_USUARIO.png" width="50px;" style="border-radius:50%"> | **Aila Michelle** | Programação & Circuito do Servo/Sensor | [@SEU_USUARIO](https://github.com/SEU_USUARIO) |
+| <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Otávio Dâmaceno** | Montagem do Chassis & Motor Driver | [@OUTRO_USUARIO](https://github.com/OUTRO_USUARIO) |
+| <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Natthanael Soares** | Montagem do Chassis & Motor Driver | [@OUTRO_USUARIO](https://github.com/OUTRO_USUARIO) |
+
+---
 ## 📌 Funcionalidades
 
 * **Navegação Autónoma:** Movimento contínuo para a frente com monitorização constante de distância em tempo real.
