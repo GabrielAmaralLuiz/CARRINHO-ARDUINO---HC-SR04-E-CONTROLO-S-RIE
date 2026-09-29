@@ -25,15 +25,15 @@ Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de 
 
 ## 🛠️ Componentes Utilizados
 
-| Componente | Quantidade | Descrição |
-| :--- | :---: | :--- |
-| **Arduino Uno** | 1 | Microcontrolador principal |
-| **Driver L293D** | 1 | CI Ponte H para controlo de motores DC |
-| **HC-SR04** | 1 | Sensor de distância ultrassónico |
-| **Micro Servo SG90** | 1 | Servomotor para rotação do sensor |
-| **Motores DC** | 4 | Motores de tração das rodas |
-| **Bateria / Fonte Externa** | 1 | Alimentação dedicada para os motores (ex: bateria 9V ou pack de pilhas) |
-| **Breadboard & Jumpers** | 1 | Estrutura de conexões |
+| Componente | Quantidade | Descrição | 
+| ----- | ----- | ----- | 
+| **Arduino Uno** | 1 | Microcontrolador principal | 
+| **Kit Chassi 4WD Robô** | 1 | Estrutura acrílica 4WD com 4 Motores DC e Rodas | 
+| **Driver L293D** | 1 | CI / Módulo Ponte H para controlo dos motores | 
+| **HC-SR04** | 1 | Sensor de distância ultrassónico | 
+| **Micro Servo SG90** | 1 | Servomotor para rotação do sensor | 
+| **Bateria / Fonte Externa** | 1 | Alimentação dedicada para os motores (ex: suporte de pilhas 18650 / bateria 9V) | 
+| **Breadboard & Jumpers** | 1 | Estrutura de conexões e fios | 
 
 ---
 
