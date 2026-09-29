@@ -7,8 +7,8 @@ Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de 
 
 | Foto | Nome | Função / Contribuição | GitHub |
 | :---: | :--- | :--- | :---: |
-| <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Gabriel Amaral** | Montagem do Chassis & Motor Driver | [@GabrielAmaralLuiz](https://github.com/GabrielAmaralLuiz) |
-| <img src="https://github.com/SEU_USUARIO.png" width="50px;" style="border-radius:50%"> | **Aila Michelle** | Programação & Circuito do Servo/Sensor | [@SEU_USUARIO](https://github.com/SEU_USUARIO) |
+| <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Gabriel Amaral** | Progamador & Motor Driver | [@GabrielAmaralLuiz](https://github.com/GabrielAmaralLuiz) |
+| <img src="https://github.com/SEU_USUARIO.png" width="50px;" style="border-radius:50%"> | **Aila Michelle** | Programação & Circuito do Servo/Sensor | [@ailaoliveira](https://github.com/ailaoliveira) |
 | <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Otávio Dâmaceno** | Montagem do Chassis & Motor Driver | [@OUTRO_USUARIO](https://github.com/OUTRO_USUARIO) |
 | <img src="https://github.com/OUTRO_USUARIO.png" width="50px;" style="border-radius:50%"> | **Natthanael Soares** | Montagem do Chassis & Motor Driver | [@OUTRO_USUARIO](https://github.com/OUTRO_USUARIO) |
 
