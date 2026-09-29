@@ -66,4 +66,4 @@ Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de 
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/CARRINHO-ARDUINO---HC-SR04-E-CONTROLO-S-RIE.git](https://github.com/SEU_USUARIO/CARRINHO-ARDUINO---HC-SR04-E-CONTROLO-S-RIE.git)
+   git clone https://github.com/GabrielAmaralLuiz/CARRINHO-ARDUINO---HC-SR04-E-CONTROLO-S-RIE.git
