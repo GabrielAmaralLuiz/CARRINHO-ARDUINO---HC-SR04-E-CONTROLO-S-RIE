@@ -62,9 +62,29 @@ Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de 
   * `IN4` -> Pino Digital `8` do Arduino
 
 ---
+### 3. Driver de Motores L293D (CI 16 Pinos)
 
+| Pino do L293D | Nome do Pino | Ligação / Destino | Descrição |
+| :---: | :--- | :--- | :--- |
+| **1** | `1-2EN` | Pino Digital `5` do Arduino (PWM) | Ativação/Velocidade do Motor Esquerdo |
+| **2** | `1A` | Pino Digital `3` do Arduino | Controlo de Direção 1 (Motor Esquerdo) |
+| **3** | `1Y` | Terminal (+) do Motor Esquerdo | Saída 1 para o Motor Esquerdo |
+| **4** | `GND` | GND Geral / `BAT1-` | Massa / Ground de Lógica e Motores[cite: 1] |
+| **5** | `GND` | GND Geral / `BAT1-` | Massa / Ground de Lógica e Motores[cite: 1] |
+| **6** | `2Y` | Terminal (-) do Motor Esquerdo | Saída 2 para o Motor Esquerdo[cite: 1] |
+| **7** | `2A` | Pino Digital `4` do Arduino | Controlo de Direção 2 (Motor Esquerdo)[cite: 1] |
+| **8** | `VCC2` | Positivo da Bateria (`BAT1+`) | Alimentação de Potência dos Motores (Ex: 6V - 9V)[cite: 1] |
+| **9** | `3-4EN` | Pino Digital `6` do Arduino (PWM) | Ativação/Velocidade do Motor Direito[cite: 1] |
+| **10** | `3A` | Pino Digital `7` do Arduino | Controlo de Direção 1 (Motor Direito)[cite: 1] |
+| **11** | `3Y` | Terminal (+) do Motor Direito | Saída 3 para o Motor Direito[cite: 1] |
+| **12** | `GND` | GND Geral / `BAT1-` | Massa / Ground de Lógica e Motores[cite: 1] |
+| **13** | `GND` | GND Geral / `BAT1-` | Massa / Ground de Lógica e Motores[cite: 1] |
+| **14** | `4Y` | Terminal (-) do Motor Direito | Saída 4 para o Motor Direito[cite: 1] |
+| **15** | `4A` | Pino Digital `8` do Arduino | Controlo de Direção 2 (Motor Direito)[cite: 1] |
+| **16** | `VCC1` | 5V do Arduino (`U1_5V`) | Alimentação Lógica do CI (5V)[cite: 1] |
 ## 💻 Como Executar o Projeto
 
+---
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/GabrielAmaralLuiz/CARRINHO-ARDUINO---HC-SR04-E-CONTROLO-S-RIE.git
