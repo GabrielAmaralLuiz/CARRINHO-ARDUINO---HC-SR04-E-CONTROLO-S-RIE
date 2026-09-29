@@ -29,6 +29,7 @@ Projeto de um robô móvel autónomo desenvolvido com **Arduino Uno**, capaz de 
 | ----- | ----- | ----- | 
 | **Arduino Uno** | 1 | Microcontrolador principal | 
 | **Kit Chassi 4WD Robô** | 1 | Estrutura acrílica 4WD com 4 Motores DC e Rodas | 
+| **Motor DC 3-6V + Roda 68mm** | 4 | Conjunto de motor TT com caixa de redução (3-6V) e roda emborrachada de 68mm para tração do chassi |
 | **Driver L293D** | 1 | CI / Módulo Ponte H para controlo dos motores | 
 | **HC-SR04** | 1 | Sensor de distância ultrassónico | 
 | **Micro Servo SG90** | 1 | Servomotor para rotação do sensor | 
